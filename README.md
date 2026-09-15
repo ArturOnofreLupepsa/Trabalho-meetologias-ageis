@@ -77,9 +77,9 @@ Com base nas métricas observadas na simulação, foram propostas 3 ações de m
 
 ---
 
-## 👥 Integrantes do Projeto e Papéis na Simulação
+## 👥 Integrantes do Projeto 
+Artur Vinicius;
+Bruno Januário;
+Lucas Dantas;
+Nikolas Lodi; 
 
-- **Condutor:** Guia das rodadas de simulação[cite: 1].
-- **Movimentador:** Atualização física/virtual das colunas.
-- **Registrador:** Anotação de métricas, eventos e filas.
-- **Analisadores:** Análise contínua do fluxo e aplicação das regras do WIP.
