@@ -12,7 +12,7 @@ https://trello.com/b/GttNfQIZ/trabalho-metodologias-ageis
 
 ## 📌 1. Visão Geral do Produto
 
-O **Portal de Estágios** é uma plataforma web criada para conectar alunos a vagas de estágio em empresas parceiras, além de contar com um módulo administrativo de *Back-office*[cite: 1].
+O **Portal de Estágios** é uma plataforma web criada para conectar alunos a vagas de estágio em empresas parceiras, além de contar com um módulo administrativo de *Back-office*.
 
 ### 👥 Perfis de Usuário
 - **Alunos:** Busca e candidatura a vagas
